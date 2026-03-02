@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="10" fill="#0F3460"/>
+  <path d="M24 5 L41 11 L41 27 C41 35 33 41 24 45 C15 41 7 35 7 27 L7 11 Z" fill="#1A6FB5" stroke="#3498DB" stroke-width="0.8"/>
+  <rect x="22" y="13" width="4" height="16" rx="1" fill="white" opacity="0.9"/>
+  <rect x="16" y="19" width="16" height="4" rx="1" fill="white" opacity="0.9"/>
+  <text x="24" y="37" text-anchor="middle" fill="white" font-size="7" font-weight="700" font-family="sans-serif" letter-spacing="1.5">MAS</text>
+</svg>
